@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @iarajfares
-- 👀 I’m interested in Front-end
+- 👋 Hi, I’m Iara Jazmin Fares
+- 👀 I’m interested in frontend but lately I focus more on backend.
 - 🌱 I’m currently learning.
+- 💾 I study Systems Engineering at the Universidad Tecnologica Nacional. 
 - 📫 How to reach me: iarajfares@gmail.com 
 
 <!---
